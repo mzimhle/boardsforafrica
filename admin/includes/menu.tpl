@@ -1,0 +1,1 @@
+<div class="content">	<ul id="menu">		<li><a {if $currentPage eq '/' or $currentPage eq ''}class="current"{/if} href="/admin/">Home</a></li>			<li><a {if $currentPage eq 'enquiries'}class="current"{/if} href="/admin/enquiries/">Enquiries</a></li>	</ul></div>

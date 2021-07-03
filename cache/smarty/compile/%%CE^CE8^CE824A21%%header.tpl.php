@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.20, created on 2015-04-18 13:12:32
+         compiled from includes/header.tpl */ ?>
+<div id="header">		<ul id="menu">			<li><a href="/">Home</a></li>			<li><a href="/about-us/">About Us</a></li>			<li><a href="/services/">Services</a></li>			<li><a href="/products/">Products</a></li>			<li><a href="/contact-us/">Contact Us</a></li>		</ul></div><div class="clear"></div>

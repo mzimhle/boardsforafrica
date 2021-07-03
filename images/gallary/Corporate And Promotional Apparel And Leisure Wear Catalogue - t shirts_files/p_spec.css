@@ -1,0 +1,443 @@
+@charset "utf-8";
+
+.product_spec_info { float: left; width: 517px; position: relative; height: auto; }
+.product_spec_image_1 { float: left; height: 361px; width: 475px; position: relative; }
+.product_spec_image_2 { float: left; width: 517px; position: relative; height: auto; }
+.p_blk_1 { float: left; width: 517px; position: relative; height: auto; }
+.product_spec_image_3 { float: left; height: 203px; width: 992px; position: relative; }
+.style_options { float: left; height: 30px; width: 992px; position: relative; }
+.product_spec_info_2 { float: left; height: auto; width: 992px; position: relative; }
+.ts1 { background-image: url(../product_page_info/tshirt/ts_1.jpg); background-repeat: no-repeat; float: left; height: 958px; width: 993px; position: relative; }
+.ts2 { background-image: url(../product_page_info/tshirt/ts_2.jpg); background-repeat: no-repeat; height: 1367px; width: 993px; position: relative; }
+.ts3 { background-image: url(../product_page_info/tshirt/ts_3.jpg); background-repeat: no-repeat; float: left; height: 700px; width: 993px; position: relative; }
+.ts4 { background-image: url(../product_page_info/tshirt/ts_4.jpg); background-repeat: no-repeat; float: left; height: 774px; width: 993px; position: relative; }
+.ts5 { background-image: url(../product_page_info/tshirt/ts_5.jpg); background-repeat: no-repeat; float: left; height: 770px; width: 993px; position: relative; }
+.ts6 { background-image: url(../product_page_info/tshirt/ts_6.jpg); background-repeat: no-repeat; float: left; height: 973px; width: 993px; position: relative; }
+.ts7 { background-image: url(../product_page_info/tshirt/ts_7.jpg); background-repeat: no-repeat; float: left; height: 803px; width: 993px; position: relative; }
+.ts8 { background-image: url(../product_page_info/tshirt/ts_8.jpg); background-repeat: no-repeat; float: left; height: 850px; width: 993px; position: relative; }
+.ts9 { background-image: url(../product_page_info/tshirt/ts_9.jpg); background-repeat: no-repeat; float: left; height: 740px; width: 993px; position: relative; }
+.ts10 { background-image: url(../product_page_info/tshirt/ts_10.jpg); background-repeat: no-repeat; float: left; height: 1260px; width: 993px; position: relative; }
+.ts11 { background-image: url(../product_page_info/tshirt/ts_11.jpg); background-repeat: no-repeat; float: left; height: 760px; width: 993px; position: relative; }
+.ts12 { background-image: url(../product_page_info/tshirt/ts_12.jpg); background-repeat: no-repeat; float: left; height: 910px; width: 993px; position: relative; }
+.ts13 { background-image: url(../product_page_info/tshirt/ts_13.jpg); background-repeat: no-repeat; float: left; height: 1229px; width: 993px; position: relative; }
+.ts14 { background-image: url(../product_page_info/tshirt/ts_14.jpg); background-repeat: no-repeat; float: left; height: 992px; width: 993px; position: relative; }
+.ts15 { background-image: url(../product_page_info/tshirt/ts_15.jpg); background-repeat: no-repeat; float: left; height: 699px; width: 993px; position: relative; }
+.ts16 { background-image: url(../product_page_info/tshirt/ts_16.jpg); background-repeat: no-repeat; float: left; height: 790px; width: 993px; position: relative; }
+.ts17 { background-image: url(../product_page_info/tshirt/ts_17.jpg); background-repeat: no-repeat; float: left; height: 800px; width: 993px; position: relative; }
+.ts18 { background-image: url(../product_page_info/tshirt/ts_18.jpg); background-repeat: no-repeat; float: left; height: 751px; width: 993px; position: relative; }
+.ts19 { background-image: url(../product_page_info/tshirt/ts_19.jpg); background-repeat: no-repeat; float: left; height: 750px; width: 993px; position: relative; }
+.ts20 { background-image: url(../product_page_info/tshirt/ts_20.jpg); background-repeat: no-repeat; float: left; height: 950px; width: 993px; position: relative; }
+.ts21 { background-image: url(../product_page_info/tshirt/ts_21.jpg); background-repeat: no-repeat; float: left; height: 780px; width: 993px; position: relative; }
+.ts22 { background-image: url(../product_page_info/tshirt/ts_22.jpg); background-repeat: no-repeat; float: left; height: 755px; width: 993px; position: relative; }
+
+.b1 { background-image: url(../product_page_info/bags/b_1.jpg); background-repeat: no-repeat; height: 1000px; width: 993px; position: relative; float: left; }
+
+.gs1 { background-image: url(../product_page_info/golfshirt/gs_1.jpg); background-repeat: no-repeat; height: 750px; width: 993px; position: relative; float: left; }
+.gs2 { background-image: url(../product_page_info/golfshirt/gs_2.jpg); background-repeat: no-repeat; height: 755px; width: 993px; position: relative; float: left; }
+.gs3 { background-image: url(../product_page_info/golfshirt/gs_3.jpg); background-repeat: no-repeat; height: 810px; width: 993px; position: relative; float: left; }
+.gs4 { background-image: url(../product_page_info/golfshirt/gs_4.jpg); background-repeat: no-repeat; height: 755px; width: 993px; position: relative; float: left; }
+.gs5 { background-image: url(../product_page_info/golfshirt/gs_5.jpg); background-repeat: no-repeat; height: 968px; width: 993px; position: relative; float: left; }
+.gs6 { background-image: url(../product_page_info/golfshirt/gs_6.jpg); background-repeat: no-repeat; height: 900px; width: 993px; position: relative; float: left; }
+.gs7 { background-image: url(../product_page_info/golfshirt/gs_7.jpg); background-repeat: no-repeat; height: 900px; width: 993px; position: relative; float: left; }
+.gs8 { background-image: url(../product_page_info/golfshirt/gs_8.jpg); background-repeat: no-repeat; height: 797px; width: 993px; position: relative; float: left; }
+.gs9 { background-image: url(../product_page_info/golfshirt/gs_9.jpg); background-repeat: no-repeat; height: 814px; width: 993px; position: relative; float: left; }
+.gs10 { background-image: url(../product_page_info/golfshirt/gs_10.jpg); background-repeat: no-repeat; height: 1246px; width: 993px; position: relative; float: left; }
+.gs11 { background-image: url(../product_page_info/golfshirt/gs_11.jpg); background-repeat: no-repeat; height: 1050px; width: 993px; position: relative; float: left; }
+.gs12 { background-image: url(../product_page_info/golfshirt/gs_12.jpg); background-repeat: no-repeat; height: 925px; width: 993px; position: relative; float: left; }
+.gs13 { background-image: url(../product_page_info/golfshirt/gs_13.jpg); background-repeat: no-repeat; height: 748px; width: 993px; position: relative; float: left; }
+.gs14 { background-image: url(../product_page_info/golfshirt/gs_14.jpg); background-repeat: no-repeat; height: 755px; width: 993px; position: relative; float: left; }
+.gs15 { background-image: url(../product_page_info/golfshirt/gs_15.jpg); background-repeat: no-repeat; height: 826px; width: 993px; position: relative; float: left; }
+.gs16 { background-image: url(../product_page_info/golfshirt/gs_16.jpg); background-repeat: no-repeat; height: 879px; width: 993px; position: relative; float: left; }
+.gs17 { background-image: url(../product_page_info/golfshirt/gs_17.jpg); background-repeat: no-repeat; height: 1133px; width: 993px; position: relative; float: left; }
+.gs18 { background-image: url(../product_page_info/golfshirt/gs_18.jpg); background-repeat: no-repeat; height: 714px; width: 993px; position: relative; float: left; }
+.gs19 { background-image: url(../product_page_info/golfshirt/gs_19.jpg); background-repeat: no-repeat; height: 936px; width: 993px; position: relative; float: left; }
+.gs20 { background-image: url(../product_page_info/golfshirt/gs_20.jpg); background-repeat: no-repeat; height: 1335px; width: 993px; position: relative; float: left; }
+.gs21 { background-image: url(../product_page_info/golfshirt/gs_21.jpg); background-repeat: no-repeat; height: 813px; width: 993px; position: relative; float: left; }
+.gs22{ background-image: url(../product_page_info/golfshirt/gs_22.jpg); background-repeat: no-repeat; height: 810px; width: 993px; position: relative; float: left; }
+.gs23{ background-image: url(../product_page_info/golfshirt/gs_23.jpg); background-repeat: no-repeat; height: 850px; width: 993px; position: relative; float: left; }
+.gs24{ background-image: url(../product_page_info/golfshirt/gs_24.jpg); background-repeat: no-repeat; height: 970px; width: 993px; position: relative; float: left; }
+.gs25{ background-image: url(../product_page_info/golfshirt/gs_25.jpg); background-repeat: no-repeat; height: 897px; width: 993px; position: relative; float: left; }
+.gs26{ background-image: url(../product_page_info/golfshirt/gs_26.jpg); background-repeat: no-repeat; height: 897px; width: 993px; position: relative; float: left; }
+.gs27{ background-image: url(../product_page_info/golfshirt/gs_27.jpg); background-repeat: no-repeat; height: 897px; width: 993px; position: relative; float: left; }
+.gs28{ background-image: url(../product_page_info/golfshirt/gs_28.jpg); background-repeat: no-repeat; height: 1066px; width: 993px; position: relative; float: left; }
+.gs29{ background-image: url(../product_page_info/golfshirt/gs_29.jpg); background-repeat: no-repeat; height: 1066px; width: 993px; position: relative; float: left; }
+.gs30{ background-image: url(../product_page_info/golfshirt/gs_30.jpg); background-repeat: no-repeat; height: 1066px; width: 993px; position: relative; float: left; }
+.gs31{ background-image: url(../product_page_info/golfshirt/gs_31.jpg); background-repeat: no-repeat; height: 759px; width: 993px; position: relative; float: left; }
+.gs32{ background-image: url(../product_page_info/golfshirt/gs_32.jpg); background-repeat: no-repeat; height: 923px; width: 993px; position: relative; float: left; }
+.gs33{ background-image: url(../product_page_info/golfshirt/gs_33.jpg); background-repeat: no-repeat; height: 855px; width: 993px; position: relative; float: left; }
+.gs34{ background-image: url(../product_page_info/golfshirt/gs_34.jpg); background-repeat: no-repeat; height: 747px; width: 993px; position: relative; float: left; }
+.gs35{ background-image: url(../product_page_info/golfshirt/gs_35.jpg); background-repeat: no-repeat; height: 1057px; width: 993px; position: relative; float: left; }
+.gs36{ background-image: url(../product_page_info/golfshirt/gs_36.jpg); background-repeat: no-repeat; height: 1090px; width: 993px; position: relative; float: left; }
+.gs37{ background-image: url(../product_page_info/golfshirt/gs_37.jpg); background-repeat: no-repeat; height: 1070px; width: 993px; position: relative; float: left; }
+.gs38{ background-image: url(../product_page_info/golfshirt/gs_38.jpg); background-repeat: no-repeat; height: 937px; width: 993px; position: relative; float: left; }
+.gs39{ background-image: url(../product_page_info/golfshirt/gs_39.jpg); background-repeat: no-repeat; height: 1057px; width: 993px; position: relative; float: left; }
+.gs40{ background-image: url(../product_page_info/golfshirt/gs_40.jpg); background-repeat: no-repeat; height: 863px; width: 993px; position: relative; float: left; }
+.gs41{ background-image: url(../product_page_info/golfshirt/gs_41.jpg); background-repeat: no-repeat; height: 819px; width: 993px; position: relative; float: left; }
+
+.c1 { background-image: url(../product_page_info/caps/c_1.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 760px; width: 993px; position: relative; }
+.c2 { background-image: url(../product_page_info/caps/c_2.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 770px; width: 993px; position: relative; }
+.c3 { background-image: url(../product_page_info/caps/c_3.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c4 { background-image: url(../product_page_info/caps/c_4.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 770px; width: 993px; position: relative; }
+.c5 { background-image: url(../product_page_info/caps/c_5.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c6 { background-image: url(../product_page_info/caps/c_6.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c7 { background-image: url(../product_page_info/caps/c_7.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c8 { background-image: url(../product_page_info/caps/c_8.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 770px; width: 993px; position: relative; }
+.c9 { background-image: url(../product_page_info/caps/c_9.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c10 { background-image: url(../product_page_info/caps/c_10.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 890px; width: 993px; position: relative; }
+.c11 { background-image: url(../product_page_info/caps/c_11.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 860px; width: 993px; position: relative; }
+.c12 { background-image: url(../product_page_info/caps/c_12.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c13 { background-image: url(../product_page_info/caps/c_13.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c14 { background-image: url(../product_page_info/caps/c_14.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 900px; width: 993px; position: relative; }
+.c15 { background-image: url(../product_page_info/caps/c_15.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 800px; width: 993px; position: relative; }
+.c16 { background-image: url(../product_page_info/caps/c_16.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c17 { background-image: url(../product_page_info/caps/c_17.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c18 { background-image: url(../product_page_info/caps/c_18.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 735px; width: 993px; position: relative; }
+.c19 { background-image: url(../product_page_info/caps/c_19.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 870px; width: 993px; position: relative; }
+.c20 { background-image: url(../product_page_info/caps/c_20.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c21 { background-image: url(../product_page_info/caps/c_21.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c22 { background-image: url(../product_page_info/caps/c_22.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c23 { background-image: url(../product_page_info/caps/c_23.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c24 { background-image: url(../product_page_info/caps/c_24.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+.c25 { background-image: url(../product_page_info/caps/c_25.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 735px; width: 993px; position: relative; }
+.c26 { background-image: url(../product_page_info/caps/c_26.jpg); background-repeat: no-repeat; background-position: center top; float: left; height: 790px; width: 993px; position: relative; }
+
+.kw1 { background-image: url(../product_page_info/kidswear/kw_1.jpg); float: left; height: 755px; width: 993px; position: relative; }
+.kw2 { background-image: url(../product_page_info/kidswear/kw_2.jpg); float: left; height: 755px; width: 993px; position: relative; }
+.kw3 { background-image: url(../product_page_info/kidswear/kw_3.jpg); float: left; height: 755px; width: 993px; position: relative; }
+.kw4 { background-image: url(../product_page_info/kidswear/kw_4.jpg); float: left; height: 755px; width: 993px; position: relative; }
+
+.j1 { background-image: url(../product_page_info/jackets/j_1.jpg); background-repeat: no-repeat; float: left; height: 635px; width: 993px; position: relative; }
+.j2 { background-image: url(../product_page_info/jackets/j_2.jpg); background-repeat: no-repeat; float: left; height: 1060px; width: 993px; position: relative; }
+.j3 { background-image: url(../product_page_info/jackets/j_3.jpg); background-repeat: no-repeat; float: left; height: 920px; width: 993px; position: relative; }
+.j4 { background-image: url(../product_page_info/jackets/j_4.jpg); background-repeat: no-repeat; float: left; height: 700px; width: 993px; position: relative; }
+
+.ow1 { background-image: url(../product_page_info/outerwear/ow_1.jpg); background-repeat: no-repeat; float: left; height: 979px; width: 993px; position: relative; }
+.ow2 { background-image: url(../product_page_info/outerwear/ow_2.jpg); background-repeat: no-repeat; float: left; height: 958px; width: 993px; position: relative; }
+.ow3 { background-image: url(../product_page_info/outerwear/ow_3.jpg); background-repeat: no-repeat; float: left; height: 958px; width: 993px; position: relative; }
+.ow4 { background-image: url(../product_page_info/outerwear/ow_4.jpg); background-repeat: no-repeat; float: left; height: 958px; width: 993px; position: relative; }
+.ow5 { background-image: url(../product_page_info/outerwear/ow_5.jpg); background-repeat: no-repeat; float: left; height: 958px; width: 993px; position: relative; }
+.ow6 { background-image: url(../product_page_info/outerwear/ow_6.jpg); background-repeat: no-repeat; float: left; height: 958px; width: 993px; position: relative; }
+
+.product_main_info { float: left; height: 390px; width: 500px; position: relative; margin-left: 10px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #333333; margin-top: 10px; }
+.product_main_info_caps { float: left; height: 290px; width: 500px; position: relative; margin-left: 10px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #333333; margin-top: 10px; }
+
+.hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: relative; margin-right: 10px; top: 355px; }
+.ts13_1_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 23px; top: 667px; right: 0px; }
+.ts13_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 23px; top: 980px; right: 0px; }
+.ts13_cata_pg_d { background-image: none; background-repeat: no-repeat; float: right; height: 49px; width: 200px; position: absolute; top: 980px; left: 0px; margin-left: 23px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #333333; font-weight: normal; }
+
+.ts14_1_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 5px; top: 765px; right: 0px; }
+.ts14_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 910px; left: 0px; margin-left: 260px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; }
+
+.ts15_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 600px; left: 0px; margin-left: 320px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; }
+
+.ts16_1_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 15px; top: 740px; right: 0px; }
+.ts16_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 670px; left: 0px; margin-left: 40px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; }
+
+.ts17_1_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 15px; top: 720px; right: 0px; }
+.ts17_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 580px; left: 0px; margin-left: 40px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; }
+
+.ts18_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 610px; left: 0px; margin-left: 40px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; }
+
+.ts19_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 620px; left: 0px; margin-left: 40px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; }
+.ts19_1_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 15px; top: 670px; right: 0px; }
+
+.ts20_1_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 15px; top: 880px; right: 0px; }
+.ts20_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 580px; left: 0px; margin-left: 40px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; }
+
+.ts21_1_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 15px; top: 690px; right: 0px; }
+.ts21_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 690px; left: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; margin-left: 40px; }
+
+.ts1_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 800px; left: 10px; margin-left: 40px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; }
+
+.ts2_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 15px; top: 680px; right: 0px; }
+.ts2_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 680px; margin-left: 15px; left: 0px; }
+.ts2_4_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 970px; margin-left: 15px; left: 0px; }
+.ts2_5_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 1290px; left: 0px; margin-left: 15px; }
+.ts2_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 150px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; }
+
+.ts3_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 590px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 23px; }
+
+.ts4_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 720px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 23px; }
+
+.ts5_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 695px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 23px; }
+
+.ts6_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 920px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 23px; }
+.ts6_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 15px; top: 620px; right: 0px; }
+
+.ts7_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 755px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 33px; }
+
+.ts8_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 755px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 33px; }
+
+.ts9_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 620px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 33px; }
+.ts9_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; margin-right: 15px; top: 660px; right: 0px; }
+
+.ts10_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 1210px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 33px; }
+.ts10_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 700px; left: 0px; margin-left: 15px; }
+.ts10_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 990px; left: 0px; margin-left: 15px; }
+
+.ts11_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 710px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 33px; }
+.ts11_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 685px; right: 0px; margin-right: 15px; }
+
+.ts12_cata_pg_d { float: right; height: 49px; width: 197px; position: absolute; top: 670px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal; left: 0px; margin-left: 33px; }
+.ts12_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 840px; right: 0px; margin-right: 20px; }
+
+
+.gls1_cata_d { height: 49px; width: 197px; margin-left: 25px; position: absolute; left: 0px; top: 670px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+
+.gls2_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 605px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+
+.gls3_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 715px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+
+.gls4_cata_d { height: 49px; width: 197px; margin-left: 120px; position: absolute; left: 0px; top: 600px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+
+.gls5_cata_d { height: 49px; width: 197px; margin-left: 15px; position: absolute; left: 0px; top: 885px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs5_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 690px; left: 0px; margin-left: 15px; }
+.gs5_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 750px; right: 0px; margin-right: 20px; }
+
+.gls6_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 700px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs6_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 840px; right: 0px; margin-right: 15px; }
+
+.gls7_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 610px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs7_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 750px; right: 0px; margin-right: 15px; }
+
+.gls8_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 675px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs8_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 730px; right: 0px; margin-right: 15px; }
+
+.gls9_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 630px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs9_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 750px; right: 0px; margin-right: 15px; }
+
+.gls10_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 1100px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs10_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 750px; right: 0px; margin-right: 5px; }
+.gs10_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 1100px; right: 0px; margin-right: 15px; }
+
+.gls11_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 960px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs11_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 690px; right: 0px; margin-right: 25px; }
+
+.gls12_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 885px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs12_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 670px; right: 0px; margin-right: 15px; }
+
+.gls13_cata_d { height: 49px; width: 197px; margin-left: 25px; position: absolute; left: 0px; top: 680px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs13_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 690px; right: 0px; margin-right: 15px; }
+
+.gls14_cata_d { height: 49px; width: 197px; margin-left: 45px; position: absolute; left: 0px; top: 670px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs14_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 690px; right: 0px; margin-right: 15px; }
+
+.gls15_cata_d { height: 49px; width: 197px; margin-left: 45px; position: absolute; left: 0px; top: 705px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs15_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 750px; right: 0px; margin-right: 15px; }
+
+.gls16_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 635px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs16_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 815px; right: 0px; margin-right: 15px; }
+
+.gls17_cata_d { height: 49px; width: 197px; margin-left: 45px; position: absolute; left: 0px; top: 670px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs17_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 680px; right: 0px; margin-right: 15px; }
+.gs17_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 1070px; right: 0px; margin-right: 15px; }
+
+.gls18_cata_d { height: 49px; width: 197px; margin-left: 45px; position: absolute; left: 0px; top: 620px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs18_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 650px; right: 0px; margin-right: 15px; }
+
+.gls19_cata_d { height: 49px; width: 197px; margin-left: 380px; position: absolute; left: 0px; top: 850px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs19_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 725px; left: 0px; margin-left: 90px; }
+
+.gls20_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 675px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs20_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 1270px; left: 0px; margin-left: 750px; }
+.gs20_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 1010px; left: 0px; margin-left: 750px; }
+.gs20_4_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 780px; margin-right: 10px; right: 0px; }
+
+.gls21_cata_d { height: 49px; width: 197px; margin-left: 30px; position: absolute; left: 0px; top: 715px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs21_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 655px; margin-right: 420px; right: 0px; }
+
+.gls22_cata_d { height: 49px; width: 197px; margin-left: 30px; position: absolute; left: 0px; top: 690px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs22_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 670px; margin-right: 100px; right: 0px; }
+
+.gls23_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 800px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+
+.gls24_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 740px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs24_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 900px; margin-right: 30px; right: 0px; }
+
+.gls25_cata_d { height: 49px; width: 197px; margin-left: 120px; position: absolute; left: 0px; top: 745px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs25_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 680px; margin-right: 0px; right: 0px; }
+
+.gls26_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 555px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs26_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 820px; margin-right: 0px; right: 0px; }
+
+.gls27_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 715px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs27_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 795px; margin-right: 30px; right: 0px; }
+
+.gls28_cata_d { height: 49px; width: 197px; margin-left: 300px; position: absolute; left: 0px; top: 530px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs28_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 915px; left: 0px; margin-left: 15px; }
+
+.gls29_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 1015px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs29_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 770px; margin-left: 15px; right: 0px; }
+
+.gls30_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 710px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs30_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 755px; right: 0px; margin-right: 15px; }
+
+.gls31_cata_d { height: 49px; width: 197px; margin-left: 40px; position: absolute; left: 0px; top: 710px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs31_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 680px; right: 0px; margin-right: 45px; }
+
+.gls32_cata_d { height: 49px; width: 197px; margin-left: 30px; position: absolute; left: 0px; top: 670px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs32_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 815px; right: 0px; margin-right: 15px; }
+
+.gls33_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 670px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs33_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 795px; right: 0px; margin-right: 25px; }
+
+.gls34_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 660px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs34_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 670px; right: 0px; margin-right: 10px; }
+
+.gls35_cata_d { height: 49px; width: 197px; margin-left: 120px; position: absolute; left: 0px; top: 900px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs35_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 650px; right: 0px; margin-right: 20px; }
+.gs35_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 980px; right: 0px; margin-right: 30px; }
+
+.gls36_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 710px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs36_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 720px; right: 0px; margin-right: 20px; }
+.gs36_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 1020px; left: 0px; margin-left: 20px; }
+
+.gls37_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 710px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs37_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 830px; right: 0px; margin-right: 20px; }
+.gs37_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 1020px; left: 0px; margin-left: 20px; }
+
+.gls38_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 780px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs38_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 875px; right: 0px; margin-right: 25px; }
+
+.gls39_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 655px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs39_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 970px; right: 0px; margin-right: 15px; }
+
+.gls40_cata_d { height: 49px; width: 197px; margin-left: 120px; position: absolute; left: 0px; top: 740px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs40_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 685px; right: 0px; margin-right: 20px; }
+
+.gls41_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 760px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gs41_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 690px; right: 0px; margin-right: 40px; }
+
+
+
+.c1_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c1_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c2_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c2_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c3_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c3_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c4_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c4_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c5_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c5_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c6_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c6_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c7_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c7_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c8_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c8_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c9_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c9_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c10_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c10_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 790px; right: 0px; margin-right: 25px; }
+
+.c11_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c11_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c12_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c12_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c13_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c13_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c14_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c14_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 790px; right: 0px; margin-right: 25px; }
+
+.c15_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c15_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c16_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c16_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c17_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c17_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c18_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c18_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c19_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c19_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 790px; right: 0px; margin-right: 25px; }
+
+.c20_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c20_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c21_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c21_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c22_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c22_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c23_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c23_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c24_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c24_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c25_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c25_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.c26_cata_d { height: 49px; width: 197px; margin-left: 10px; position: absolute; left: 0px; top: 75px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.c26_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 707px; right: 0px; margin-right: 20px; }
+
+
+
+.b_1_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 510px; left: 0px; margin-left: 8px; }
+.b_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 510px; right: 0px; margin-right: 35px; }
+.b_3_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 935px; left: 0px; margin-left: 7px; }
+.b_4_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 935px; right: 0px; margin-right: 25px; }
+
+
+.j1_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 600px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.j1_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 355px; left: 0px; margin-left: 320px; }
+
+.j2_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 1005px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.j2_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 815px; right: 0px; margin-right: 10px; }
+
+.j3_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 865px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.j3_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 670px; right: 0px; margin-right: 20px; }
+
+.j4_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 610px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.j4_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 710px; right: 0px; margin-right: 25px; }
+
+.ow1_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 930px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.ow1_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 620px; right: 0px; margin-right: 5px; }
+
+.ow2_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 920px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.ow2_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 610px; right: 0px; margin-right: 5px; }
+
+.ow3_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 825px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.ow3_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 610px; right: 0px; margin-right: 5px; }
+
+.ow4_cata_d { height: 49px; width: 197px; margin-left: 45px; position: absolute; left: 0px; top: 820px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.ow4_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 610px; right: 0px; margin-right: 7px; }
+
+.ow5_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 820px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.ow5_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 610px; right: 0px; margin-right: 5px; }
+
+.ow6_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 820px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.ow6_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 610px; right: 0px; margin-right: 10px; }
+
+
+
+
+.kw1_cata_d { height: 49px; width: 197px; margin-left: 35px; position: absolute; left: 0px; top: 680px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.kw1_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 610px; right: 0px; margin-right: 10px; }
+
+.kw2_cata_d { height: 49px; width: 197px; margin-left: 30px; position: absolute; left: 0px; top: 630px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.kw2_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 610px; right: 0px; margin-right: 10px; }
+
+.kw3_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 820px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.kw3_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 680px; right: 0px; margin-right: 10px; }
+
+.kw4_cata_d { height: 49px; width: 197px; margin-left: 50px; position: absolute; left: 0px; top: 820px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.kw4_2_hr_d { background-image: url(../images/high_res_dwnload.png); background-repeat: no-repeat; float: right; height: 49px; width: 197px; position: absolute; top: 610px; right: 0px; margin-right: 10px; }

@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.20, created on 2014-12-21 16:00:58
+         compiled from admin/includes/menu.tpl */ ?>
+<div class="content">	<ul id="menu">		<li><a <?php if ($this->_tpl_vars['currentPage'] == '/' || $this->_tpl_vars['currentPage'] == ''): ?>class="current"<?php endif; ?> href="/admin/">Home</a></li>			<li><a <?php if ($this->_tpl_vars['currentPage'] == 'enquiries'): ?>class="current"<?php endif; ?> href="/admin/enquiries/">Enquiries</a></li>	</ul></div>

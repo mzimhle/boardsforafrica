@@ -1,0 +1,97 @@
+@charset "utf-8";
+* { margin: 0px; padding: 0px; }
+body { font-family: Arial, Helvetica, sans-serif; background-image: url(../images/background.jpg); background-repeat: repeat-x; background-color: #E4E5E7; }
+#main_layout_warpper { width: 992px; position: relative; height: auto; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; }
+#header { background-image: url(../images/einsteintshirts_01.jpg); background-repeat: no-repeat; float: left; height: 20px; width: 970px; position: relative; padding-bottom: 100px; padding-left: 22px; padding-top: 4px; }
+#nav { float: left; height: 75px; width: 992px; position: relative; }
+
+
+.t_shirts { background-image: url(../images/einsteintshirts_02.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 138px; position: relative; }
+.t_shirts:hover { background-image: url(../images/nav-over_02.gif); background-repeat: no-repeat; float: left; height: 75px; width: 138px; position: relative; background-position:bottom; cursor:pointer }
+
+.t_shirts2 { background-image: url(../images/navover_02.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 138px; position: relative; }
+.t_shirts2:hover { background-image: url(../images/einsteintshirts_02.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 138px; position: relative; background-position:bottom; cursor:pointer}
+
+.kidswear { background-image: url(../images/einsteintshirts_04.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 132px; position: relative; }
+.kidswear:hover { background-image: url(../images/nav-over_04.gif); background-repeat: no-repeat; float: left; height: 75px; width: 132px; position: relative; background-position:bottom; cursor:pointer }
+
+.kidswear2{ background-image: url(../images/navover_04.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 132px; position: relative; }
+.kidswear2:hover  { background-image: url(../images/einsteintshirts_04.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 132px; position: relative; background-position:bottom; cursor:pointer}
+
+.golfshirts { background-image: url(../images/einsteintshirts_06.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 132px; position: relative; }
+.golfshirts:hover { background-image: url(../images/nav-over_06.gif); background-repeat: no-repeat; float: left; height: 75px; width: 132px; position: relative; background-position:bottom; cursor:pointer }
+
+.golfshirts2 { background-image: url(../images/navover_06.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 132px; position: relative;  }
+.golfshirts2:hover { background-image: url(../images/einsteintshirts_06.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 132px; position: relative; background-position:bottom; cursor:pointer}
+
+.outerwear { background-image: url(../images/einsteintshirts_08.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 130px; position: relative; }
+.outerwear:hover { background-image: url(../images/nav-over_08.gif); background-repeat: no-repeat; float: left; height: 75px; width: 130px; position: relative; background-position:bottom; cursor:pointer }
+
+.outerwear2 { background-image: url(../images/navover_08.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 130px; position: relative;  }
+.outerwear2:hover { background-image: url(../images/einsteintshirts_08.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 130px; position: relative; background-position:bottom; cursor:pointer }
+
+.jackets { background-image: url(../images/einsteintshirts_10.jpg); background-repeat: no-repeat; height: 75px; width: 132px; position: relative; float: left; }
+.jackets:hover { background-image: url(../images/nav-over_10.gif); background-repeat: no-repeat; height: 75px; width: 132px; position: relative; float: left; background-position:bottom; cursor:pointer }
+
+.jackets2 { background-image: url(../images/navover_10.jpg); background-repeat: no-repeat; height: 75px; width: 132px; position: relative; float: left;  }
+.jackets2:hover { background-image: url(../images/einsteintshirts_10.jpg); background-repeat: no-repeat; height: 75px; width: 132px; position: relative; float: left; background-position:bottom; cursor:pointer}
+
+.caps { background-image: url(../images/einsteintshirts_12.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 130px; position: relative; }
+.caps:hover { background-image: url(../images/nav-over_12.gif); background-repeat: no-repeat; float: left; height: 75px; width: 130px; position: relative; background-position:bottom; cursor:pointer }
+
+.caps2{ background-image: url(../images/navover_12.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 130px; position: relative;  }
+.caps2:hover  { background-image: url(../images/einsteintshirts_12.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 130px; position: relative;background-position:bottom; cursor:pointer }
+
+.bags { background-image: url(../images/einsteintshirts_14.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 138px; position: relative; }
+.bags:hover { background-image: url(../images/nav-over_14.gif); background-repeat: no-repeat; float: left; height: 75px; width: 138px; position: relative; background-position:bottom; cursor:pointer }
+
+.bags2 { background-image: url(../images/navover_14.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 138px; position: relative; }
+.bags2:hover { background-image: url(../images/einsteintshirts_14.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 138px; position: relative;background-position:bottom; cursor:pointer  }
+
+
+
+.nav_divider { background-image: url(../images/einsteintshirts_03.jpg); background-repeat: no-repeat; float: left; height: 75px; width: 10px; }
+#slide_show_area { float: left; height: 432px; width: 992px; position: relative; }
+.slider { float: left; height: 369px; width: 992px; position: relative; }
+.slider_part_two { background-image: url(../images/einsteintshirts_16.jpg); background-repeat: no-repeat; float: left; height: 63px; width: 992px; position: relative; }
+#ribbon { background-image: url(../images/einsteintshirts_17.jpg); background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; }
+
+#product_header { background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; margin-top: 15px; }
+#bags_header { background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; margin-top: 15px; background-image: url(../images/bags_header.png); background-position: center center; }
+#tshirts_header { background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; margin-top: 15px; background-image: url(../images/tshirts_header.png); background-position: center center; }
+#golfshirts_header { background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; margin-top: 15px; background-image: url(../images/golfshirts_header.png); background-position: center center; }
+#outerwear_header { background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; margin-top: 15px; background-image: url(../images/outerwear_header.png); background-position: center center; }
+#kidswear_header { background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; margin-top: 15px; background-image: url(../images/kidswear_header.png); background-position: center center; }
+#jackets_header { background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; margin-top: 15px; background-image: url(../images/jackets_header.png); background-position: center center; }
+#caps_header { background-repeat: no-repeat; float: left; height: 87px; width: 992px; position: relative; margin-top: 15px; background-image: url(../images/caps_header.png); background-position: center center; }
+
+#main_content { float: left; height: 694px; width: 992px; position: relative; }
+#product_content { float: left; height: auto; width: 992px; position: relative; }
+#footer { height: 98px; width: 100%; position: relative; background-color: #172323; float: left; }
+
+.tshirt_tab { float: left; height: 290px; width: 229px; margin-top: 11px; margin-right: 19px; margin-left: 7px; position: relative; background-image: url(../images/main_content_09.jpg); background-repeat: no-repeat; }
+.tshirt_tab:hover { float: left; height: 290px; width: 229px; margin-top: 11px; margin-right: 19px; margin-left: 7px; position: relative; background-image: url(../images/main_content_over_09.jpg); background-repeat: no-repeat; background-position:bottom; cursor:pointer }
+
+.kidswear_tab { float: left; height: 290px; width: 229px; margin-top: 11px; margin-right: 22px; position: relative; background-image: url(../images/main_content_10.jpg); background-repeat: no-repeat; }
+.kidswear_tab:hover { float: left; height: 290px; width: 229px; margin-top: 11px; margin-right: 22px; position: relative; background-image: url(../images/main_content_over_10.jpg); background-repeat: no-repeat; background-position:bottom; cursor:pointer }
+
+.golfshirts_tab { float: left; height: 290px; width: 226px; margin-top: 11px; margin-right: 24px; position: relative; background-image: url(../images/main_content_11.jpg); background-repeat: no-repeat; }
+.golfshirts_tab:hover { float: left; height: 290px; width: 226px; margin-top: 11px; margin-right: 24px; position: relative; background-image: url(../images/main_content_over_11.jpg); background-repeat: no-repeat; background-position:bottom; cursor:pointer }
+
+.outerwear_tab { float: left; height: 290px; width: 236px; margin-top: 11px; position: relative; background-image: url(../images/main_content_12.jpg); background-repeat: no-repeat; }
+.outerwear_tab:hover { float: left; height: 290px; width: 236px; margin-top: 11px; position: relative; background-image: url(../images/main_content_over_12.jpg); background-repeat: no-repeat; background-position:bottom; cursor:pointer }
+
+.tab_d { float: left; height: 50px; width: 992px; position: relative; }
+
+.jackets_tab { background-image: url(../images/main_content_17.jpg); background-repeat: no-repeat; float: left; height: 289px; width: 229px; position: relative; margin-right: 19px; margin-bottom: 5px; margin-left: 7px; }
+.jackets_tab:hover { background-image: url(../images/main_content_over_17.jpg); background-repeat: no-repeat; float: left; height: 289px; width: 229px; position: relative; margin-right: 19px; margin-bottom: 5px; margin-left: 7px; background-position:bottom; cursor:pointer }
+
+.caps_tab { float: left; height: 289px; width: 229px; margin-right: 22px; margin-bottom: 5px; position: relative; background-image: url(../images/main_content_18.jpg); background-repeat: no-repeat; }
+.caps_tab:hover { float: left; height: 289px; width: 229px; margin-right: 22px; margin-bottom: 5px; position: relative; background-image: url(../images/main_content_over_18.jpg); background-repeat: no-repeat; background-position:bottom; cursor:pointer }
+
+.bags_tab { float: left; height: 289px; width: 226px; margin-right: 24px; margin-bottom: 5px; position: relative; background-image: url(../images/main_content_19.jpg); background-repeat: no-repeat; }
+.bags_tab:hover { float: left; height: 289px; width: 226px; margin-right: 24px; margin-bottom: 5px; position: relative; background-image: url(../images/main_content_over_19.jpg); background-repeat: no-repeat; background-position:bottom; cursor:pointer }
+
+.vcata_tab { float: left; height: 289px; width: 236px; margin-bottom: 5px; position: relative; background-image: url(../images/main_content_over_20.jpg); }
+.vcata_tab:hover { float: left; height: 289px; width: 236px; margin-bottom: 5px; position: relative; background-image: url(../images/main_content_over_20.jpg); background-position:bottom; cursor:pointer }
+.footer_info { background-image: url(../images/einsteintshirts_19.jpg); background-repeat: no-repeat; height: 98px; width: 992px; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; position: relative; }

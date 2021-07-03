@@ -1,0 +1,18 @@
+[16-May-2013 09:17:36 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Adapter_Mysqli_Exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/boardsfo/public_html/library/classes/Zend/Db/Adapter/Mysqli.php:333
+Stack trace:
+#0 /home/boardsfo/public_html/library/classes/Zend/Db/Adapter/Abstract.php(304): Zend_Db_Adapter_Mysqli->_connect()
+#1 /home/boardsfo/public_html/library/classes/Zend/Db/Adapter/Mysqli.php(194): Zend_Db_Adapter_Abstract->getConnection()
+#2 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(824): Zend_Db_Adapter_Mysqli->describeTable('enquiry', NULL)
+#3 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(846): Zend_Db_Table_Abstract->_setupMetadata()
+#4 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(886): Zend_Db_Table_Abstract->_getCols()
+#5 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(970): Zend_Db_Table_Abstract->_setupPrimaryKey()
+#6 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Select.php(100) in /home/boardsfo/public_html/library/classes/Zend/Db/Adapter/Mysqli.php on line 333
+[16-May-2013 09:22:29 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Adapter_Mysqli_Exception' with message 'Table 'boardsfo_dbus.enquiry' doesn't exist' in /home/boardsfo/public_html/library/classes/Zend/Db/Adapter/Mysqli.php:204
+Stack trace:
+#0 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(824): Zend_Db_Adapter_Mysqli->describeTable('enquiry', NULL)
+#1 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(846): Zend_Db_Table_Abstract->_setupMetadata()
+#2 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(886): Zend_Db_Table_Abstract->_getCols()
+#3 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(970): Zend_Db_Table_Abstract->_setupPrimaryKey()
+#4 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Select.php(100): Zend_Db_Table_Abstract->info()
+#5 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Select.php(78): Zend_Db_Table_Select->setTable(Object(class_enquiry))
+#6 /home/boardsfo/public_html/library/classes/Zend/Db/Table/Abstract.php(1006): Zend_Db_Table in /home/boardsfo/public_html/library/classes/Zend/Db/Adapter/Mysqli.php on line 204

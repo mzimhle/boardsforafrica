@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>jQuery Slideshow</title>
+	<link rel="stylesheet" href="css/example.css" />
+	<link rel="stylesheet" href="css/pygments.css" />
+	<link rel="stylesheet" href="css/slideshow.css" />
+</head>
+<body>
+
+				<div class="slideshow" data-visible="4" data-pagination="false" data-offset="3">
+					<ul class="carousel">
+						<li class="slide">
+							<img src="http://placebox.es/110/110/d97ef2/f5f5f5" alt="" width="110" height="110" />
+						</li>
+						<li class="slide">
+							<img src="http://placebox.es/110/110/50ac3d/f5f5f5" alt="" width="110" height="110" />
+						</li>
+						<li class="slide">
+							<img src="http://placebox.es/110/110/0a77bb/f5f5f5" alt="" width="110" height="110" />
+						</li>
+						<li class="slide">
+							<img src="http://placebox.es/110/110/d97ef2/f5f5f5" alt="" width="110" height="110" />
+						</li>
+						<li class="slide">
+							<img src="http://placebox.es/110/110/50ac3d/f5f5f5" alt="" width="110" height="110" />
+						</li>
+						<li class="slide">
+							<img src="http://placebox.es/110/110/0a77bb/f5f5f5" alt="" width="110" height="110" />
+						</li>
+						<li class="slide">
+							<img src="http://placebox.es/110/110/d97ef2/f5f5f5" alt="" width="110" height="110" />
+						</li>
+						<li class="slide">
+							<img src="http://placebox.es/110/110/50ac3d/f5f5f5" alt="" width="110" height="110" />
+						</li>
+						<li class="slide">
+							<img src="http://placebox.es/110/110/0a77bb/f5f5f5" alt="" width="110" height="110" />
+						</li>
+					</ul>
+				</div>
+
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script src="dist/slideshow.js"></script>
+	<script>
+		$(function()
+		{
+			// Create slideshow instances
+			var $s = $('.slideshow').slides();
+
+			// Access an instance API
+			var api = $s.eq(0).data('slides');
+
+			// Transition select
+			$('select[name=transition]').on('change', function()
+			{
+				api.redraw( this.value );
+			});
+		});
+	</script>
+
+</body>
+</html>
